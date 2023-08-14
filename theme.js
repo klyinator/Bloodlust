@@ -3,7 +3,7 @@
     script.setAttribute("type", "text/javascript");
     script.setAttribute(
       "src",
-      "https://astromations.github.io/Hazy/hazy.js"
+      "https://astromations.github.io/Bloodlust/hazy.js"
     );
     document.head.appendChild(script);
   })();
